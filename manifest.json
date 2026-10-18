@@ -1,0 +1,50 @@
+{
+  "manifest_version": "1.0",
+  "org": "sloria",
+  "repo": "environs",
+  "versions": [
+    {
+      "commit": "d65f5d16155f6653569f8319b458484ff27be297",
+      "parsed_at": "2026-10-18T08:50:34.362413+00:00",
+      "filetree": "filetree/d65f5d16155f6653569f8319b458484ff27be297.nq.gz",
+      "blobs": [
+        "blob/9c067bae1e4b47b4521fd63d34d9ccbe02acaaa5.nq.gz",
+        "blob/fe95e258fed330699fcaf3d7f2e57e396fa6915b.nq.gz",
+        "blob/da9c516dd744b6c88dd8c91f58f7bcf8f7e8341b.nq.gz",
+        "blob/55d31195c2fbb497914e93fd8a478fcb2140cd0a.nq.gz",
+        "blob/96b4795515ed2d72f1667d48c82d5ef8e3b14267.nq.gz",
+        "blob/f51e020f3b1a4eb5f1936a14cd53d08f2738c67b.nq.gz",
+        "blob/6ae4ceda1902a5e8a8d31edd7794c1b9d77ce279.nq.gz",
+        "blob/89bc7d250e54d6b868842dd37461f987771d38c6.nq.gz",
+        "blob/d4480e7cb0d946252b7af5c230199e8808918dd6.nq.gz",
+        "blob/3d36af68548bc67e50f5a58c101dee40fef9fe6d.nq.gz",
+        "blob/f62feb5860753513402d010061681240272051f5.nq.gz",
+        "blob/f40ce91be5fa3ae6afbf5457462f0d87000e4f1b.nq.gz",
+        "blob/59704707542a7b0edae4a2e9059fa285251d9f5e.nq.gz",
+        "blob/9dec1ef0848d7927733be0e9f25e2be538ea6ea7.nq.gz",
+        "blob/7baf13c79709a858b286a4ceed045ab4aa1fe814.nq.gz",
+        "blob/c9333cf6f576a7fa9dab2a324b1b902bf3504cc7.nq.gz",
+        "blob/224fa948490753d4827f8f29b71c7349bfe8f820.nq.gz",
+        "blob/6601f2bf9895761c46fd29f048956f52e433edbf.nq.gz",
+        "blob/311a8756ed9a636fe0f08c2e00f10f936961857a.nq.gz",
+        "blob/e36d1dd6d500be8306605efe11d984ffb240dd1b.nq.gz",
+        "blob/70f9d7cdb584ca14c9c38d00d5bc514d158810a3.nq.gz",
+        "blob/e5aff4f83af864a6415aebc309885d1e32c3c63a.nq.gz",
+        "blob/8aa96572e168c835f646763376cdd44c3591d5fb.nq.gz",
+        "blob/eb8783f93b59121ce26ad283ae2e61694416ce8e.nq.gz",
+        "blob/8365523bbeb52a99d85d1a61fc7372eee4b7bef0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2a6afbeead3b0bb873ecfbb22a707bafcbc8f01c.nq.gz",
+        "blob/2b4faff88b9d1deb6fcf966a56979a36756b2c58.nq.gz",
+        "blob/634ea73edcbc564ce72af70ae5a998db2c0b3e54.nq.gz",
+        "blob/cad5edce19f70b9ef93858ea44dd961ebe7b5ae5.nq.gz",
+        "blob/218b03f3fa0fcca2f3135a8ff5ad5e8e5cb4c976.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
