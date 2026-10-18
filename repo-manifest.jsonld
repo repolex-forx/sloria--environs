@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sloria/environs/commit/d65f5d16155f6653569f8319b458484ff27be297",
       "git:hexsha": "d65f5d16155f6653569f8319b458484ff27be297",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T08:52:52.818610+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sloria/environs/commit/e8db874baac731538c002922be2da90b14bc812e",
